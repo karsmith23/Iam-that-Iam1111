@@ -1,0 +1,37 @@
+<html>
+    <head>
+            <title>Karlsen Smith Resume</title>
+    </head>
+    <body>
+            <h1>Karlsen Smith Resume</h1>
+        <hr />
+            <h3>Mailing: <address>P.O. BOX 17 <br />LUKACHUKAI AZ, 86507 </address></h3>
+            <h3>Email: <address>karlsensmith@yahoo.com</address></h3>
+            <h3>Phone: <address>(928)-349-6596</address></h3>
+        <hr />
+            <br/>
+            <h2>Education</h2>
+            <p>2010-    Tsaile Public School</p>
+            <p>2014-    Chinle Highschool</p>
+            <p>2019-    BFA in Graphic Design, Dine College,Tsaile, AZ</p>
+            <p>2019-    Certificate in Computers and Technology, Dine College,Tsaile, AZ</p>
+            
+        <h2>Experience</h2>
+            <p>2013-    Southwest Foodservice Excellence, Chinle, AZ </p>
+            <p>2018-    United States Marine Corps, Camp Pendleton, CA  </p>
+            <p>2019-    Domino's Pizza, Albuquerque, NM </p>
+            <p>2020-    Barker-Ewing Float Trips, WY </p>
+            <p>2021-    KBR Mask Production, Phoenix, AZ </p>
+            <p>2022-    Navajo Engineering and Contruction Association (NECA), Tsaile, AZ </p>
+            <p>2022-    ACM Contruction, LLC, Durango, CO </p>
+            <p>2023-    Just-Pizza, Tsaile, AZ</p>
+            <p>2024-    </p>
+        
+        <h2>Projects</h2>
+            <p>Item 1</p>
+            <p>Item 2</p>
+            <p>Item 3</p>
+            <h2>References</h2>
+        
+    </body>
+</html>
